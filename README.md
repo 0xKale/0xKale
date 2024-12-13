@@ -3,13 +3,14 @@
 <p align="center">I enjoy programming in C++ and all that jazz</p>
 <h2 align="center">About Me</h2>
 
+<p align="center">
+    🖥️ C++<br>
+</p>
 <p align="center"> 
     <a href="https://www.goodreads.com/user/show/72163788-kale">GoodReads 📚</a> 
 </p>
 
-<p align="center">
-    🖥️ C++<br>
-</p>
+
 
 <h2 align="center">Spotify</h2>
 
