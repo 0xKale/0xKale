@@ -4,8 +4,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center"> 
-    <i>dont-delete-me</i>
-    <a href=" https://www.goodreads.com/user/show/72163788-kale">GoodReads 📚</a>   
+    <a href=" https://www.goodreads.com/user/show/72163788-kale">GoodReads 📚</a>  
 </p>
 
 <p align="center">
