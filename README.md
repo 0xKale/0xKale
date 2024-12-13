@@ -1,9 +1,4 @@
 <p align="center">
-    <a href="https://github.com/0xKale">
-        
-    </a>
-</p>
-
 <h1 align="center">Welcome</h1>
 
 <h2 align="center">About Me</h2>
