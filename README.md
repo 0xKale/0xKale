@@ -4,10 +4,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center"> 
-    <a href="https://www.goodreads.com/user/show/72163788-kale">GoodReads 📚</a>
-    <br>
-    <p>dont-delete-me</p>
-    
+    <a href="https://www.goodreads.com/user/show/72163788-kale">GoodReads 📚</a> 
 </p>
 
 <p align="center">
@@ -24,5 +21,5 @@
 </p>
 
 <p align="center">
-    <i>"Three o'clock is always too late or too early for anything you want to do." -  Jean-Paul Sartre</i>
+    <i>dont-delete-me</i>
 </p>
