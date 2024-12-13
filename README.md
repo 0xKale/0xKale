@@ -2,10 +2,10 @@
 <h1 align="center">Welcome</h1>
 <p align="left">I enjoy programming and all that jazz</p>
 <p align="left">
-    C++ 🖥️ Python🐍<br>
+    C++ 🖥️ Python🐍<br><a href="https://www.goodreads.com/user/show/72163788-kale">GoodReads📚</a> 
 </p>
 <p align="left"> 
-    <a href="https://www.goodreads.com/user/show/72163788-kale">GoodReads📚</a> 
+    
 </p>
 
 <p align="left">
