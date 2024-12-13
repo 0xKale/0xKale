@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center">Welcome</h1>
-<p align="center">I enjoy programming in C++ and all that jazz</p>
+<p align="left">I enjoy programming in C++ and all that jazz</p>
 <h2 align="center">About Me</h2>
 
 <p align="left">
