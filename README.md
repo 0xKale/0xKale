@@ -16,6 +16,6 @@
   </a>
 </p>
 
-<p align="center">
+<p align="right">
     <i>dont-delete-me</i>
 </p>
