@@ -1,9 +1,8 @@
 <p align="center">
     <a href="https://github.com/0xKale">
-        <img title="0xKale" src="![20241209_113109](https://github.com/user-attachments/assets/8795dc59-fa79-421e-b444-89073611e759)" width="666"/>
+        
     </a>
 </p>
-![20241209_113109](https://github.com/user-attachments/assets/8795dc59-fa79-421e-b444-89073611e759)
 
 <h1 align="center">Welcome</h1>
 
