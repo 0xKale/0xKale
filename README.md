@@ -4,16 +4,11 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-    🖥️ C++<br>
+    C++🖥️<br>
 </p>
 <p align="center"> 
-    <a href="https://www.goodreads.com/user/show/72163788-kale">GoodReads 📚</a> 
+    <a href="https://www.goodreads.com/user/show/72163788-kale">GoodReads📚</a> 
 </p>
-
-
-
-<h2 align="center">Spotify</h2>
-
 
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
