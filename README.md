@@ -4,7 +4,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="left">
-    C++🖥️<br>
+    C++ 🖥️ Python🐍<br>
 </p>
 <p align="left"> 
     <a href="https://www.goodreads.com/user/show/72163788-kale">GoodReads📚</a> 
