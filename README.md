@@ -6,5 +6,5 @@
   </a>
 </p>
 <p align="right">
-    <i>dont-delete-me</i>
+    <i>dont-delete-me.ko</i>
 </p>
